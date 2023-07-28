@@ -9,11 +9,10 @@ Este es un proyecto donde se desarrolla una tienda virtual de articulos relacion
 
 ## Repositorio de Github
 
-Este es el [link](https://github.com/alexa272/Proyecto1.freelancer/tree/main) a el repositorio del proyecto en github
+Este es el [link](https://github.com/alexa272/Proyecto2.frontend_Store) a el repositorio del proyecto en github
 
 ## Sitio web
-
-Aqui puedes ver en vivo mi portafolio [link](https://paginafreelancerasm.netlify.app/)
+Aqui puedes ver en vivo este proyecto [link](https://frontendstoreasm.netlify.app/)
 
 ## Tecnologías
 
